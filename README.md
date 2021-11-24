@@ -8,4 +8,4 @@ This is a game consists of 5 minigames:
   4. Sudoku
   5. Tiles
 
-Read the README.txt file to understand how to run the program
+Do read the README.txt file to understand how to run the program, and have fun playing the games 😁😁
